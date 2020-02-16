@@ -8,23 +8,19 @@
 #include <stdlib.h>
 #include <string.h>
 
-int main()
-{
-    int arr[5],max=0,min=0,sum=0;
-for (int i=0; i<5; i++) 
-{
-scanf("%d",&arr[i]);
-sum+=arr[i];
-}
-min=sum;
-for (int i=0; i<5; i++) 
-{
-int val=sum;
-
-val=sum-arr[i];
-if (val>=max){max=val;}
-else if(val<min){min =val;}
-}
-printf("%d %d",min,max);
+int main(){
+    unsigned long long int a[5],max,min,sum=0;
+    int i;
+    scanf("%lld",&a[0]);
+    max=a[0];min=a[0];sum=a[0]+sum;
+    for(i=1;i<5;i++){
+        scanf("%lld",&a[i]);
+        if(max<a[i])
+            max=a[i];
+        if(min>a[i])
+            min=a[i];
+        sum=sum+a[i];
+    }
+    printf("%lld %lld",sum-max,sum-min);
     return 0;
 }
