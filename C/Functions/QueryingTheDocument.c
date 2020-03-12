@@ -149,3 +149,6 @@ int main()
         printf("\n");
     }     
 }
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
