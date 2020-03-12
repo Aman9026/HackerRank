@@ -78,3 +78,6 @@ char* readline() {
     return data;
 }
 
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
