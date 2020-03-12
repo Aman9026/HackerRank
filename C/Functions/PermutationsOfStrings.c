@@ -55,3 +55,6 @@ int main()
 	free(s);
 	return 0;
 }
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
