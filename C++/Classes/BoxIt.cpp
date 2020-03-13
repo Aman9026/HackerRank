@@ -115,3 +115,6 @@ int main()
 {
 	check2();
 }
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
