@@ -10,3 +10,6 @@ FROM (
     ORDER BY Lat_N DESC
     )
 WHERE ROWNUM = 1;
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
