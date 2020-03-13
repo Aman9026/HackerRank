@@ -5,3 +5,6 @@
 SELECT COUNT(*)
 FROM City
 WHERE Population > 100000;
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
