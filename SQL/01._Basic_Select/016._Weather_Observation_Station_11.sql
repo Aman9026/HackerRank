@@ -4,3 +4,6 @@
 
 SELECT DISTINCT City FROM Station
 WHERE REGEXP_LIKE(City, '^[^AEIOU]|[^aeiou]$');
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
