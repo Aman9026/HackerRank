@@ -59,3 +59,6 @@ int main()
     cout<<z<<endl;
 }
 
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
