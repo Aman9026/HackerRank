@@ -10,3 +10,6 @@ SELECT
         ELSE 'Scalene'
     END
 FROM TRIANGLES;
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
