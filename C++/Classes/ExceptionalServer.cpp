@@ -50,3 +50,6 @@ int main() {
 	cout << Server::getLoad() << endl;
 	return 0;
 }
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
