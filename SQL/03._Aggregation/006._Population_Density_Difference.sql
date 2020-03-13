@@ -4,3 +4,6 @@
 
 SELECT MAX(Population) - MIN(Population)
 FROM City;
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
