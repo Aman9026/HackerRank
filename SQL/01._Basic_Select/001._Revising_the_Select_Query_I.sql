@@ -7,3 +7,6 @@ FROM CITY
 WHERE
     COUNTRYCODE = 'USA'
     AND POPULATION > 100000;
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
