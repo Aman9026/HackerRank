@@ -5,3 +5,6 @@
 SELECT *
 FROM CITY
 WHERE COUNTRYCODE = 'JPN';
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
