@@ -5,3 +5,6 @@
 SELECT SUM(Population)
 FROM City
 WHERE CountryCode = 'JPN';
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
