@@ -13,3 +13,6 @@ int main() {
     cout << a + b + c << endl;
     return 0;
 }
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
