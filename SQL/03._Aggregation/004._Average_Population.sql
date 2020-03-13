@@ -4,3 +4,6 @@
 
 SELECT FLOOR(AVG(Population))
 FROM City;
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
