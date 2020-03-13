@@ -119,3 +119,6 @@ int main()
     d.check(new_val);
 
 }
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
