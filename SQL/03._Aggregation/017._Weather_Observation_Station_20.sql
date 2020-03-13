@@ -4,3 +4,6 @@
 
 SELECT ROUND(MEDIAN(Lat_N), 4)
 FROM Station;
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
