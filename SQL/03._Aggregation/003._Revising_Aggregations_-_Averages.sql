@@ -5,3 +5,6 @@
 SELECT AVG(Population)
 FROM City
 WHERE District = 'California';
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
