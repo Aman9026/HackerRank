@@ -5,3 +5,6 @@
 SELECT SUM(Population)
 FROM City
 WHERE District = 'California';
+ 
+ 
+ /*Contributed by AMAN KUMAR GUPTA*/
