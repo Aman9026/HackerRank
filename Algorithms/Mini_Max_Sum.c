@@ -24,3 +24,6 @@ int main(){
     printf("%lld %lld",sum-max,sum-min);
     return 0;
 }
+
+
+/*By Aman Kumar Gupta*/
